@@ -1,0 +1,33 @@
+{
+  "name": "Antisocial-Robot",
+  "version": "1.0.0",
+  "description": "Servo-powered car that seeks quiet",
+  "main": "index.js",
+  "dependencies": {
+    "servo-car": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Frijol/Antisocial-Robot.git"
+  },
+  "keywords": [
+    "tessel",
+    "servo",
+    "antisocial",
+    "robot",
+    "car",
+    "social",
+    "machine",
+    "reactive"
+  ],
+  "author": "Kelsey Breseman",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/Frijol/Antisocial-Robot/issues"
+  },
+  "homepage": "https://github.com/Frijol/Antisocial-Robot"
+}
