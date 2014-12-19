@@ -4,7 +4,9 @@
   "description": "Servo-powered car that seeks quiet",
   "main": "index.js",
   "dependencies": {
-    "servo-car": "^1.0.0"
+    "ambient-attx4": "^0.2.4",
+    "servo-car": "^1.0.0",
+    "tesselate": "0.0.2"
   },
   "devDependencies": {},
   "scripts": {
